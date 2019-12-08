@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrainrexAPI/examples/blob/master/sentiment-quickstart.ipynb]
-
 # Brainrex Examples
 Example quickstarts and tutorial for the Brainrex API
 
