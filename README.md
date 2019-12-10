@@ -1,6 +1,14 @@
 # Brainrex Examples
 Example quickstarts and tutorial for the Brainrex API
 
+## Create an account and get your API key. 
+
+- Go to console.brainrex.com
+- Click Register
+- Go to APIs.
+- Click subscribe under any of the subscribable APIs
+- Go to Dashboard > Copy and paste keys 
+
 ## Running interactive notebook in Google Colab. Directly on your browser. :boom:
 
 Anyone can use the [colab.research.google.com/notebook](https://colab.research.google.com/notebook) website (by [clicking](XXX) on the icon above) to run the notebook in her/his web-browser.
