@@ -1,13 +1,18 @@
-# Brainrex Examples
-Example quickstarts and tutorial for the Brainrex API
+# Brainrex Quickstarts
+Example quickstarts and code examples for the Brainrex API. This examples are intented to understand how our client libraris are built and to get you your familiar with the different services offered by the Brainrex API. 
+
+Brainrex does not provide with end product solutions as we can't possibly satisfy everyone, our API is simply the a set of analytics tools and data integrations so you can build a custom solution that adapts to your data and your business problems. 
 
 ## Create an account and get your API key. 
 
-- Go to console.brainrex.com
+- Navigate to [Console](https://console.brainrex.com)
 - Click Register
+- Find the cofirmation code in your email and enter it.
+- Sign in to the console.
 - Go to APIs.
-- Click subscribe under any of the subscribable APIs
-- Go to Dashboard > Copy and paste keys 
+- Click Subscribe under brainrex-api-free. Be aware, if you do not perform this step you will get a 403 forbidden response. 
+- Go to Dashboard.
+- There you can find the API key. API key is the method of authentifaction that you need to use when you use any of our clients. We highly reccomend storing this password as a enviroment variable. 
 
 ## Running interactive notebook in Google Colab. Directly on your browser. :boom:
 
@@ -23,13 +28,3 @@ You can then play with it as long as you like, for instance by modifying the val
 - Anomaly. Find anomalies in Ethereum Network statistics.
 - Integrations. Fetching candle data from Coinbase Pro exchange.
 - All routes Quickstarts. Analizing OmiseGo Token Airdrop using Sentiment, Anomalies an Integrations.
-
-# Create a Brainrex Free tier account and obtain your API keys.
-- Go to https://console.brainrex.com/signup and create an account.
-- Go to https://console.brainrex.com/apis APIs and click Subscribe under brainrex-free API. 
-- Go to https://console.brainrex.com/dashboard and copy and paste the API key. Here, you can also monitor your usage and your remaining monthly requests.
-- Recommended. Save the key as an enviroment variable in your computer.
-
-'''bash
-export BRAINREX_CLIENT_SECRET=INSERT_API_KEY_HERE
-'''
