@@ -1,7 +1,7 @@
 # Codabl Quickstarts
 Example quickstarts and code examples for the Codabl API. This examples are intented to understand how our client libraris are built and to get you your familiar with the different services offered by the Codabl API. 
 
-Brainrex does not provide with end product solutions as we can't possibly satisfy everyone, our API is simply the a set of analytics tools and data integrations so you can build a custom solution that adapts to your data and your business problems. 
+Codabl does not provide with end product solutions as we can't possibly satisfy everyone, our API is simply the a set of analytics tools and data integrations so you can build a custom solution that adapts to your data and your business problems. 
 
 ## Create an account and get your API key. 
 
